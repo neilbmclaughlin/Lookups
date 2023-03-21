@@ -1,0 +1,5 @@
+const capitals = require('./capitals.json')
+console.log(capitals)
+console.log(capitals['England'])
+console.log(capitals['France'])
+console.log(capitals.England)
