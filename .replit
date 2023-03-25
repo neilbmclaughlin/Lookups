@@ -24,6 +24,7 @@ PATH = "/home/runner/$REPL_SLUG/.config/npm/node_global/bin:/home/runner/$REPL_S
 npm_config_prefix = "/home/runner/$REPL_SLUG/.config/npm/node_global"
 HISTFILE = "/home/runner/$REPL_SLUG/.history"
 GIT_EDITOR = "vim"
+PROMPT_COMMAND = "history -a"
 
 [gitHubImport]
 requiredFiles = [".replit", "replit.nix", ".config", "package.json", "package-lock.json"]
