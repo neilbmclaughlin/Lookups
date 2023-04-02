@@ -1,9 +1,9 @@
 {
-  "Belgium": "Brussels",
-  "France": "Paris",
-  "England": "London",
-  "Scotland": "Edinburgh",
-  "Wales": "Cardiff",
-  "Northern Ireland": "Belfast",
-  "Ireland": "Dublin"
+  "belgium": "brussels",
+  "france": "paris",
+  "england": "london",
+  "scotland": "edinburgh",
+  "wales": "cardiff",
+  "northern ireland": "belfast",
+  "ireland": "dublin"
 }
