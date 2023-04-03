@@ -23,7 +23,7 @@ const server = http.createServer((req, res) => {
    res.setHeader('Content-Type', 'text/plain');
 
    const query = url.parse(req.url, true).query;
-   const message = getCapitalMessage(query.country);
+   const message = getCapitalMessage(query.country || 'england');
    res.end(message);
 });
 
