@@ -1,11 +1,12 @@
 {
   "belgium": "brussels",
   "france": "paris",
-  "spain": "Madrid",
-  "portugal": "Lisbon",
+  "spain": "madrid",
+  "portugal": "lisbon",
   "england": "london",
   "scotland": "edinburgh",
   "wales": "cardiff",
   "northern ireland": "belfast",
-  "ireland": "dublin"
+  "ireland": "dublin",
+  "italy": "rome"
 }
